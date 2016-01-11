@@ -1,0 +1,5 @@
+# need an application.properties file with proper credentials filled in.  excluded from github for security reasons.
+spring.datasource.url=jdbc:postgresql://host:5432/itemprices
+spring.datasource.username=
+spring.datasource.password=
+spring.datasource.driver-class-name=org.postgresql.Driver
